@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Astro and React**
 
-- 💬 Ask me about **Django**
-
 - 📫 How to reach me **kerlynlipaperez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
