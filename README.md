@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerlyn Lipa</h1>
 <h3 align="center">A student who started in the world of programming</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **kerlynlipaperez@gmail.com**
 
